@@ -1,0 +1,6 @@
+rofi.combi-modi:    window,drun,ssh
+rofi.font:          Roboto 10
+rofi.modi:          combi
+rofi.color-window: #131c26, #131c26, #725f8f
+rofi.color-normal: #131c26, #a1a8b9, #131c26, #725f8f, #a1a8b9
+rofi.color-active: #222222, #b1b4b3, #222222, #007763, #b1b4b3
